@@ -1,0 +1,14 @@
+DataBasePackage\Term.class
+languageapp\DBviewerController.class
+languageapp\DBchooserController.class
+languageapp\PrimaryController.class
+languageapp\SecondaryController.class
+languageapp\DataBaseChooserController.class
+module-info.class
+languageapp\AboutWindowController.class
+languageapp\DataBaseViewerController.class
+languageapp\DeleteWordDialogController.class
+DataBasePackage\Translation.class
+languageapp\App.class
+languageapp\AddWordDialogController.class
+DataBasePackage\DataBaseManager.class

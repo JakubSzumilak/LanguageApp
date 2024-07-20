@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21" fx:controller="languageapp.AboutWindowController">
+   <children>
+      <Label layoutX="205.0" layoutY="14.0" prefHeight="35.0" prefWidth="190.0" text="About the project">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <Text layoutX="32.0" layoutY="101.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The LanguageApp project was created by Jakub 'Lordax' Szumilak as a student project for Modern Programming Languages class at Państwowa Akademia Nauk Stosowanych in Jarosław. It was written entirely in Java, using Java SDK 21 in Apache NetBeans 17 and 19 IDE. Scene Builder was used to design user interface. The application connects to a local SQLite database using sqlite-jdbc xerial plugin, version 3.8.11.2, to store and manage the collection of terms and translations. Feel free to copy, modify and redistribute this project as long, as it remains free of charge. No one should pay for gaining knowledge, thereby no fees will ever be charged for using LanguageApp." textAlignment="JUSTIFY" wrappingWidth="535.7367553710938">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+      <Text layoutX="360.0" layoutY="375.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Project finished on May 3rd, 2024" wrappingWidth="218.93670654296875">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>
