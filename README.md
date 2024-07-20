@@ -10,4 +10,6 @@ An extracurricular Java project made during Modern Programming Languages classes
 + An 'about' page to tell you more about the app
 + A progress bar to keep track of the remaining words to revise
 
-I made LanguageApp using NetBeans IDE 17 and 19. I used SceneBuilder for creating the visual aspects of the app. Also I integrated it with a local SQLite database using a database driver
+I made LanguageApp using NetBeans IDE 17 and 19. I used SceneBuilder for creating the visual aspects of the app. Also I integrated it with a local SQLite database using a database driver.
+
+The main directory of the project also contains a PDF document in Polish with a short rundown on the project
